@@ -21,5 +21,7 @@ git branch -m <tên branch mới> => đổi tên branch
 
 git branch -D <tên branch> => xóa branch (chỉ xóa khi đang ở branch khác)
 
+git pull origin main => lấy code mới nhất về 
+
 
 
